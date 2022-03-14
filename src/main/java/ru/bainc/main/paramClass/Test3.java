@@ -23,6 +23,7 @@ public class Test3 {
         arrayList.add(3.16);
         System.out.println(summ(arrayList));
         System.out.println("Create TestBranch");
+        System.out.println();
 
     }
 
